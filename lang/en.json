@@ -6,7 +6,7 @@
     "footer": {
         "title": "Footer Start",
         "brands": "Popular Brands",
-        "navigate": "Navigate",
+        "navigate": "Site Nav",
         "info": "Info",
         "categories": "Categories",
         "call_us": "Call us at {phone_number}",
@@ -702,6 +702,7 @@
     },
     "products": {
         "current_stock": "Current Stock:",
+        "journal_text": "Journal Text",
         "quantity": "Quantity:",
         "change_product_options": "Change options for {name}",
         "quantity_decrease": "Decrease Quantity of {name}",
